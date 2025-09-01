@@ -43,7 +43,8 @@ python3 console_canvas.py
 ```
 ## Quick Demo
 
-[![Watch Demo](https://github.com/Y3llowDuck/Console2PNG/blob/main/Demo.mp4)
+[Watch the demo](https://raw.githubusercontent.com/Y3llowDuck/Console2PNG/main/Demo.mp4)
+
 
 
 
