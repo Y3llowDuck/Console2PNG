@@ -43,9 +43,14 @@ python3 console_canvas.py
 ```
 ## Quick Demo
 
-Here’s a quick video showing how to use it. 
+<video src="https://raw.githubusercontent.com/Y3llowDuck/Console2PNG/main/Demo.mp4"
+       controls
+       muted
+       playsinline
+       width="100%">
+  Your browser does not support the video tag.
+</video>
 
-[Wtach Demo](https://github.com/Y3llowDuck/Console2PNG/blob/main/Demo.mp4)
 
 
 
